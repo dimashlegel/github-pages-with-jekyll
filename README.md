@@ -1,3 +1,7 @@
+
+This repository is a starter portfolio that you can use to learn a little bit about GitHub Pages with Jekyll.
+
+
 # Your GitHub Learning Lab Repository for GitHub Pages
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
